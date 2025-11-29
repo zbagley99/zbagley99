@@ -45,7 +45,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 
-
+ <!--
 <div align="center">
   <table>
     <tr>
@@ -61,4 +61,4 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
