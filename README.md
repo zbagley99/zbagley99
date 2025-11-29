@@ -13,12 +13,10 @@
   <a href="mailto:zbagley99@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="https://github.com/zbagley99">
+  <a href="https://github.com/binxly">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-
-<h3 align="center">Backend Developer</h3>
 
 <h4> 🛠 &nbsp;Works With</h4>
 
