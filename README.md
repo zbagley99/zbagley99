@@ -19,7 +19,8 @@
 </p>
 
 <h4> 🛠 &nbsp;Works With</h4>
-
+<span align="center">
+  
   &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FFFFFF)
   ![Neovim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=neovim&logoColor=00800)
@@ -34,14 +35,17 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+</span>
 <h4>
 📚 &nbsp;Learning
 </h4>
-
+<span align="center">
+  
+  &nbsp;
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=45b6fe)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
+</span>
 
  <!--
 <div align="center">
