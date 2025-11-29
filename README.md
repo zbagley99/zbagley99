@@ -18,7 +18,7 @@
   </a><span>&nbsp;</span>
 </p>
 
-<h3 align="center">Indie Full Stack Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <h4> 🛠 &nbsp;Works With</h4>
 
