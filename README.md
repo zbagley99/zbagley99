@@ -25,8 +25,6 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FFFFFF)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=ffff00)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
