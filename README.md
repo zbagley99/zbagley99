@@ -16,6 +16,9 @@
   <a href="https://github.com/binxly">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
+  <a href="https://gitlab.com/zbagley99">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
 </p>
 
 <h4> 🛠 &nbsp;Works With</h4>
@@ -25,7 +28,6 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FFFFFF)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=ffff00)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 </span>
