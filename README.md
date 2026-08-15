@@ -1,24 +1,4 @@
 <h1 align="center">Hi, I'm Zac <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/zac-bagley/">
-   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
-    </a><span>&nbsp;</span>
-  <!-- <a href="https://twitter.com/">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
-  </a><span>&nbsp;</span> -->
-  <a href="https://www.instagram.com/binx.ly/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
-  <a href="mailto:zac@zbagley.dev">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
-  <a href="https://github.com/binxly">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
-  <a href="https://gitlab.com/zbagley99">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
 </p>
 
 <h4> 🛠 &nbsp;Works With</h4>
